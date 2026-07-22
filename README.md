@@ -1,2 +1,3 @@
 # Potato-grafics-FAST-FLAGS-SEXFLAGS-
 Optimización enfocada en obtener el máximo rendimiento posible mediante la reducción de efectos gráficos, iluminación, sombras, texturas y otros procesos visuales que incrementan la carga del sistema. También incluye ajustes para mejorar la estabilidad, reducir el uso de CPU y GPU, optimizar la carga de recursos y mantener una experiencia más fluida en equipos de bajos y medios recursos. Compatible con versiones recientes de Roblox y diseñada para priorizar los FPS sobre la calidad gráfica.
+En esta vercion son 72 lineas de codigo pero en todas esta garantizada su funcionalidad
